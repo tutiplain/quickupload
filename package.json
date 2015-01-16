@@ -1,0 +1,17 @@
+{
+  "name": "quickupload",
+  "version": "1.0.0",
+  "description": "A quick uploader to replace complex FTP clients!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.7",
+    "mkdirp": "^0.5.0",
+    "multer": "^0.1.7",
+    "through": "^2.3.6"
+  }
+}
